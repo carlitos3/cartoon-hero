@@ -1,0 +1,26 @@
+
+            body{
+                background-color: aquamarine;
+            }
+            h1{
+                color:red;
+                font-size: 90px;
+            }
+
+            #first{
+                font-size: 50px;
+            }
+            .small{
+                    font-size: 12px; 
+            }
+            h2 {
+                font-size: 40px;
+            }
+
+            span {
+                font-style: italic;
+            }
+
+            h2 span{
+                text-decoration: line-through;
+            }
